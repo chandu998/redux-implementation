@@ -1,0 +1,34 @@
+{
+  "name": "nodemodule_redux_",
+  "version": "1.0.0",
+  "description": "used for both react and redux",
+  "engines": {
+    "node": "7.8.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "dependencies": {
+    "react-redux": "^8.0.2",
+    "react-scripts": "5.0.1",
+    "redux": "^4.2.0",
+    "redux-saga": "^1.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandu998/redux-implementation.git"
+  },
+  "keywords": [
+    "redux"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chandu998/redux-implementation/issues"
+  },
+  "homepage": "https://github.com/chandu998/redux-implementation#readme"
+}
